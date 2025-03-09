@@ -104,5 +104,5 @@ This project is licensed under the MIT License.
 ---
 
 ## ✍️ Author
-** Chirag N Vijay
+ Chirag N Vijay
 
